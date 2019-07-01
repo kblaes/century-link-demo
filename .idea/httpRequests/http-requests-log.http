@@ -1,0 +1,192 @@
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T094458.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083809.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083750-1.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083750.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083749.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083746.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083723.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083214.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083144.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T083018.200.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082931.500.html
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082748.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082557.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082554.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082515.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=charliesome
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082514.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082455.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082453-1.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082453.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082451.500.json
+
+###
+
+GET http://localhost:8080/followers?userId=kblaes
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082335.500.json
+
+###
+
+GET http://localhost:8080/followers
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082255.400.json
+
+###
+
+GET http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082241.404.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-07-01T082235.404.json
+
+###
+
